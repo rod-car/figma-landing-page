@@ -1,0 +1,38 @@
+@tailwind base;
+
+@layer base {
+    h1 {
+        @apply text-4xl font-extrabold tracking-tight leading-tight;
+    }
+
+    h2 {
+        @apply text-3xl font-bold tracking-tight leading-tight;
+    }
+
+    h3 {
+        @apply text-2xl font-semibold tracking-tight leading-tight;
+    }
+
+    h4 {
+        @apply text-xl font-medium leading-snug;
+    }
+
+    h5 {
+        @apply text-lg font-medium leading-snug;
+    }
+
+    h6 {
+        @apply text-base font-medium leading-snug;
+    }
+}
+
+@font-face {
+    font-family: "Graphik";
+    src: url('./Graphik.otf');
+    font-weight: auto;
+    font-style: auto;
+}
+
+* {
+    font-family: "Graphik", serif!important;
+}

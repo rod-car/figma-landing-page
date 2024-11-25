@@ -12,6 +12,22 @@ Avant d'installer les dépendances, assurez-vous d'avoir installé les prérequi
 
 ---
 
+### Cloner le dépôt
+
+Ouvrez un terminal et exécutez les commandes suivantes :
+
+```bash
+git clone https://github.com/rod-car/figma-landing-page.git
+```
+
+Accédez au dossier du projet :
+
+```bash
+cd figma-landing-page
+```  
+
+---  
+
 ### Installation des dépendances
 
 Le projet utilise Yarn comme gestionnaire de paquets, mais vous êtes libre d'utiliser un autre outil si vous le souhaitez.

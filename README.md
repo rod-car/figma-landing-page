@@ -7,10 +7,7 @@ Il repose sur les technologies suivantes :
 - **[Nuxt](https://nuxt.com)** : un framework puissant pour Vue.js, facilitant la création de sites web modernes et performants.
 - **[Tailwind CSS](https://tailwindcss.com)** : un framework CSS utilitaire, conçu pour simplifier la gestion des styles.
 
-### **Objectif**
-Le projet vise à fournir une landing page attrayante, modulable, et facile à personnaliser en utilisant des outils modernes.
-
-Retrouvez les détails pour l'installation et l'utilisation dans le fichier [Install.md](Install.md).
+Retrouvez les détails pour l'installation et l'utilisation dans le fichier [INSTALL.md](INSTALL.md).
 
 ---
 
